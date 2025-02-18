@@ -1,21 +1,61 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
+    "github_org": "JMU-AudiAnnotate",
+    "is_private": false,
+    "title": "Furious Flower Poetry Center Overview Part 1, 6/20/2011 (FF010)",
+    "description": "Furious Flower Poetry Center Overview Part 1, 6/20/2011 (FF010)",
+    "language": "en",
+    "slug": "FF0010-1",
+    "creator": "JMU-AudiAnnotate",
     "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Speaker",
+          "color": "#ADFFD9"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Joanne V. Gabbin",
+          "category": "Speaker"
+        },
+        {
+          "tag": "DaMaris B. Hill",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Speaker Unknown",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Class",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Opal Moore",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Sonia Sanchez",
+          "category": "Speaker"
+        },
+        {
+          "tag": "Becky Thompson",
+          "category": "Speaker"
+        }
+      ]
+    },
+    "created_at": "2025-02-18T19:20:23.616Z",
+    "updated_at": "2025-02-18T19:20:23.616Z"
   }
 }
